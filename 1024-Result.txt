@@ -1,0 +1,496 @@
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  531 
+
+[[128. 512. 256. 128.]
+ [  2.   4.   2.  16.]
+ [  0.   0.   0.   2.]
+ [  0.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  532 
+
+[[128. 512. 256. 128.]
+ [  2.   4.   2.  16.]
+ [  2.   0.   0.   0.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  533 
+
+[[128. 512. 256. 128.]
+ [  2.   4.   2.  16.]
+ [  0.   0.   0.   2.]
+ [  2.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  534 
+
+[[128. 512. 256. 128.]
+ [  4.   4.   2.  16.]
+ [  0.   0.   0.   4.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  535 
+
+[[128. 512. 256. 128.]
+ [  0.   8.   2.  16.]
+ [  0.   0.   0.   4.]
+ [  2.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  536 
+
+[[128. 512. 256. 128.]
+ [  2.   8.   2.  16.]
+ [  0.   0.   0.   4.]
+ [  0.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  537 
+
+[[128. 512. 256. 128.]
+ [  2.   8.   2.  16.]
+ [  0.   0.   0.   8.]
+ [  0.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  538 
+
+[[128. 512. 256. 128.]
+ [  2.   8.   4.  16.]
+ [  0.   0.   2.   8.]
+ [  0.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  539 
+
+[[128. 512. 256. 128.]
+ [  2.   8.   4.  16.]
+ [  0.   0.   2.   8.]
+ [  2.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  540 
+
+[[128. 512. 256. 128.]
+ [  2.   8.   4.  16.]
+ [  2.   0.   2.   8.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  541 
+
+[[128. 512. 256. 128.]
+ [  4.   8.   4.  16.]
+ [  0.   0.   2.   8.]
+ [  2.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  542 
+
+[[128. 512. 256. 128.]
+ [  4.   8.   4.  16.]
+ [  2.   0.   2.   8.]
+ [  0.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  543 
+
+[[128. 512. 256. 128.]
+ [  4.   8.   4.  16.]
+ [  0.   0.   4.   8.]
+ [  0.   2.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  544 
+
+[[128. 512. 256. 128.]
+ [  4.   8.   8.  16.]
+ [  0.   2.   0.   8.]
+ [  0.   2.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  545 
+
+[[128. 512. 256. 128.]
+ [  2.   4.  16.  16.]
+ [  0.   0.   2.   8.]
+ [  0.   0.   2.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  546 
+
+[[128. 512. 256. 128.]
+ [  0.   2.   4.  32.]
+ [  2.   0.   2.   8.]
+ [  0.   0.   2.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  547 
+
+[[128. 512. 256. 128.]
+ [  2.   2.   4.  32.]
+ [  0.   0.   4.   8.]
+ [  2.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  548 
+
+[[128. 512. 256. 128.]
+ [  0.   4.   4.  32.]
+ [  0.   2.   4.   8.]
+ [  0.   0.   2.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  549 
+
+[[128. 512. 256. 128.]
+ [  0.   4.   8.  32.]
+ [  0.   2.   2.   8.]
+ [  2.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  550 
+
+[[128. 512. 256. 128.]
+ [  0.   4.   8.  32.]
+ [  0.   2.   4.   8.]
+ [  0.   0.   2.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  551 
+
+[[128. 512. 256. 128.]
+ [  4.   8.  32.   2.]
+ [  2.   4.   8.   0.]
+ [  2.   4.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  552 
+
+[[128. 512. 256. 128.]
+ [  4.   8.  32.   2.]
+ [  4.   8.   8.   0.]
+ [  0.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  553 
+
+[[128. 512. 256. 128.]
+ [  8.  16.  32.   2.]
+ [  0.   0.   8.   0.]
+ [  0.   0.   2.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  554 
+
+[[128. 512. 256. 128.]
+ [  8.  16.  32.   4.]
+ [  0.   0.   8.   0.]
+ [  2.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  555 
+
+[[128. 512. 256. 128.]
+ [  8.  16.  32.   4.]
+ [  8.   0.   0.   0.]
+ [  4.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  556 
+
+[[128. 512. 256. 128.]
+ [ 16.  16.  32.   4.]
+ [  4.   0.   2.   0.]
+ [  0.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  557 
+
+[[128. 512. 256. 128.]
+ [ 32.  32.   4.   0.]
+ [  4.   2.   0.   0.]
+ [  2.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  558 
+
+[[128. 512. 256. 128.]
+ [ 64.   4.   0.   0.]
+ [  4.   2.   0.   2.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  559 
+
+[[128. 512. 256. 128.]
+ [ 64.   4.   0.   2.]
+ [  8.   2.   0.   0.]
+ [  0.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  560 
+
+[[128. 512. 256. 128.]
+ [  0.  64.   4.   2.]
+ [  0.   0.   8.   2.]
+ [  0.   0.   2.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  561 
+
+[[128. 512. 256. 128.]
+ [  0.  64.   4.   2.]
+ [  0.   0.   8.   4.]
+ [  2.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  562 
+
+[[128. 512. 256. 128.]
+ [  0.  64.   4.   2.]
+ [  0.   2.   8.   4.]
+ [  0.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  563 
+
+[[128. 512. 256. 128.]
+ [ 64.   4.   2.   2.]
+ [  2.   8.   4.   0.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  564 
+
+[[128. 512. 256. 128.]
+ [ 64.   4.   4.   0.]
+ [  2.   8.   4.   2.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  565 
+
+[[128. 512. 256. 128.]
+ [ 64.   8.   2.   0.]
+ [  2.   8.   4.   2.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  566 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   2.   2.]
+ [  2.   2.   4.   0.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  567 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   4.   0.]
+ [  4.   4.   0.   0.]
+ [  4.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  568 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   4.   2.]
+ [  8.   4.   0.   0.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  569 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   4.   4.]
+ [  8.   4.   0.   0.]
+ [  0.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  570 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   0.]
+ [  8.   4.   0.   0.]
+ [  2.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  571 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   2.]
+ [  8.   4.   0.   0.]
+ [  2.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  572 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   2.]
+ [  8.   4.   2.   0.]
+ [  2.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  573 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [  8.   4.   2.   2.]
+ [  2.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  574 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [  8.   4.   4.   0.]
+ [  2.   0.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  575 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [  8.   8.   0.   2.]
+ [  4.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  576 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [ 16.   2.   0.   0.]
+ [  4.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  577 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [ 16.   2.   0.   0.]
+ [  4.   2.   2.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  578 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [ 16.   4.   2.   0.]
+ [  4.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  579 
+
+[[128. 512. 256. 128.]
+ [ 64.  16.   8.   4.]
+ [  0.  16.   4.   2.]
+ [  0.   2.   4.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  580 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.   8.   4.]
+ [  0.   2.   8.   4.]
+ [  0.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  581 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.   8.]
+ [  0.   4.   0.   0.]
+ [  0.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  582 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.   8.]
+ [  0.   2.   0.   4.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  583 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.   8.]
+ [  0.   2.   2.   4.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  584 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.   8.]
+ [  0.   0.   4.   4.]
+ [  0.   0.   2.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  585 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.   8.]
+ [  0.   2.   0.   8.]
+ [  0.   0.   0.   4.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  586 
+
+[[128. 512. 256. 128.]
+ [ 64.  32.  16.  16.]
+ [  0.   2.   2.   4.]
+ [  0.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  587 
+
+[[128. 512. 256. 128.]
+ [  0.  64.  32.  32.]
+ [  0.   0.   4.   4.]
+ [  2.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  588 
+
+[[128. 512. 256. 128.]
+ [  0.   0.  64.  64.]
+ [  2.   0.   0.   8.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: d
+Board after Turn:  589 
+
+[[128. 512. 256. 128.]
+ [  0.   0.   2. 128.]
+ [  0.   0.   2.   8.]
+ [  0.   0.   0.   2.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: w
+Board after Turn:  590 
+
+[[128. 512. 256. 256.]
+ [  0.   0.   4.   8.]
+ [  0.   0.   0.   2.]
+ [  0.   2.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  591 
+
+[[128. 512. 512.   0.]
+ [  4.   8.   2.   0.]
+ [  2.   0.   0.   0.]
+ [  2.   0.   0.   0.]]
+
+Enter the next swipe move: w: up, a: left, d: right, s: down: a
+Board after Turn:  592 
+
+[[ 128. 1024.    0.    0.]
+ [   4.    8.    2.    0.]
+ [   2.    0.    2.    0.]
+ [   2.    0.    0.    0.]]
+Congrats have won!
